@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1000" viewBox="0 0 700 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050d20"/>
+      <stop offset=".5" stop-color="#0a1940"/>
+      <stop offset="1" stop-color="#174da3"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#60ddff"/>
+      <stop offset="1" stop-color="#6970ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="1000" rx="52" fill="url(#bg)"/>
+  <path d="M0 180 700 0v330L0 510Z" fill="#5799ff" opacity=".06"/>
+  <path d="M0 760 700 530v470H0Z" fill="#5366ff" opacity=".08"/>
+  <g transform="translate(242 190)">
+    <rect width="216" height="216" rx="54" fill="#fff" opacity=".07" stroke="#79b6ff" stroke-opacity=".28" stroke-width="3"/>
+    <path d="M54 139 108 48l54 91M77 104h62" fill="none" stroke="url(#mark)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="108" cy="158" r="10" fill="#65cfff"/>
+  </g>
+  <text x="350" y="500" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="60" font-weight="800">TechCulture<tspan fill="#6fd2ff">.ai</tspan></text>
+  <text x="350" y="555" text-anchor="middle" fill="#a9b9dd" font-family="Arial,sans-serif" font-size="25" letter-spacing="5">AI - INNOVATION - GROWTH</text>
+  <rect x="105" y="638" width="490" height="122" rx="28" fill="#fff" opacity=".07" stroke="#fff" stroke-opacity=".15"/>
+  <circle cx="167" cy="699" r="18" fill="#5ed7ff"/>
+  <text x="208" y="688" fill="#9eb3da" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="3">CURRENT COMPANY</text>
+  <text x="208" y="729" fill="#fff" font-family="Arial,sans-serif" font-size="32" font-weight="800">Building the future with AI</text>
+  <text x="350" y="880" text-anchor="middle" fill="#738ab8" font-family="Arial,sans-serif" font-size="21" letter-spacing="3">TECHCULTURE.AI</text>
+</svg>
